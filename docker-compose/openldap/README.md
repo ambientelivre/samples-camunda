@@ -1,6 +1,6 @@
 ## OpenLDAP para Testes com Camunda.
 
-Este compose realiza o deploy de um coniteiner com OpenLDAP
+Este compose realiza o deploy de um conteiner com OpenLDAP
 
 Use o mesmo para se conectar com o Camunda plugin LDAP.
 
