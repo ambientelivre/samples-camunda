@@ -18,7 +18,7 @@ The Bitnami Docker OpenLDAP can be easily setup with the following environment v
     LDAP_CONFIG_ADMIN_USERNAME: LDAP configuration admin user. This is separate from LDAP_ADMIN_USERNAME. Default: admin.
     LDAP_CONFIG_ADMIN_PASSWORD: LDAP configuration admin password. Default: configpassword.
     LDAP_USERS: Comma separated list of LDAP users to create in the default LDAP tree. Default: user01,user02
-    LDAP_PASSWORDS: Comma separated list of passwords to use for LDAP users. Default: bitnami1,bitnami2
+    LDAP_PASSWORDS: Comma separated list of passwords to use for LDAP users. Default: password1,password2
     LDAP_USER_DC: DC for the users' organizational unit. Default: users
     LDAP_GROUP: Group used to group created users. Default: readers
     LDAP_EXTRA_SCHEMAS: Extra schemas to add, among OpenLDAP's distributed schemas. Default: cosine, inetorgperson, nis
